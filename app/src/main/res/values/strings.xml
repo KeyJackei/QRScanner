@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QRScanner</string>
+    <string name="app_logo">Логотип приложения</string>
+    <string name="scanned_items">Список отсканированных элементов</string>
+    <string name="scan_qr">Сканировать QR</string>
+    <string name="scan_qr_desc">Кнопка для запуска сканера QR-кодов</string>
+</resources>
